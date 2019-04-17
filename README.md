@@ -9,3 +9,5 @@ The prompt based poems are generated on these prompts:
 5. Please fix this
 6. Do you like sweaters ?
 7. Meow meow meow
+
+Other results are randomly generated with the random seed shown in the name of the file
