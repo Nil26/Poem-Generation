@@ -1,7 +1,7 @@
 # Poem-Generation
 Generate poem using language model built with LSTM
 
-(Inspiration : https://github.com/pytorch/examples/tree/master/word_language_model)
+(Inspiration : https://github.com/pytorch/examples/tree/master/word_language_model, Umich SI 630: Homework 5 – Poetry Generation)
 
 The prompt based poems are generated on these prompts:
 1. How to
